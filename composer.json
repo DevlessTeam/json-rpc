@@ -1,1 +1,1 @@
-{"name":"json-rpc","description":"json rpc plugin","homepage":"https://php-download.com/","type":"project","require":{"devless/json-rpc":"^1.2.6.0"}}
+{"name":"devless/json-rpc","description":"json rpc plugin","homepage":"https://php-download.com/","type":"project","require":{"devless/json-rpc":"^1.2.6.0"}}
